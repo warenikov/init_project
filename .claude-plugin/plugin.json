@@ -1,0 +1,14 @@
+{
+  "name": "init-project",
+  "displayName": "Init Project",
+  "version": "1.0.0",
+  "description": "Инициализация документации проекта: опросный лист → тонкий CLAUDE.md-роутер + docs/ в стиле Obsidian + история задач и ADR. Не привязан к языку и стеку.",
+  "author": {
+    "name": "warenikov",
+    "url": "https://github.com/warenikov"
+  },
+  "homepage": "https://github.com/warenikov/init_project",
+  "repository": "https://github.com/warenikov/init_project",
+  "license": "MIT",
+  "keywords": ["documentation", "obsidian", "onboarding", "project-init", "task-history", "adr"]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "warenikov-tools",
+  "owner": {
+    "name": "warenikov"
+  },
+  "description": "Плагины Claude Code от warenikov",
+  "plugins": [
+    {
+      "name": "init-project",
+      "source": "./",
+      "displayName": "Init Project",
+      "description": "Опросный лист → документация проекта в стиле Obsidian: тонкий CLAUDE.md-роутер, тематические файлы docs/ с [[wikilinks]], история задач docs/history/, решения docs/decisions/. Плюс скилл task-log для ведения истории задач.",
+      "version": "1.0.0",
+      "category": "documentation",
+      "license": "MIT",
+      "homepage": "https://github.com/warenikov/init_project",
+      "repository": "https://github.com/warenikov/init_project",
+      "keywords": ["documentation", "obsidian", "onboarding", "project-init", "task-history", "adr"]
+    }
+  ]
+}
